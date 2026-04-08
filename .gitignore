@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.claude/
+*.egg-info/
+dist/
+build/
+.env
+resource.txt
+rules.txt
+website.txt
+MASTER_PLAN.md
+readme_detail.md
+final.txt
